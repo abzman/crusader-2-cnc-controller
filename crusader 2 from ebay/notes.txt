@@ -1,0 +1,7 @@
+srill need to dump U1 (82S153 and U29 (82S153)
+
+still need to scan documents that came with the boards
+
+need to correlate these to the original parts
+need to check the power rails against all the key ICs so I don't break anything on attempted power up
+check the schematics vs the old boards to see what the mods did
